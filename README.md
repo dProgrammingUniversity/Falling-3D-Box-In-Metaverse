@@ -7,7 +7,7 @@ Click on Play in Unity and click space key on your keyboard to instatiate a fall
 
 # How To Use:
 
-Watch this video (When it hit 100Likes and Comment will do indepth video) at 
+Watch this video (When it hit 100Likes and Comment will do indepth video) at https://youtu.be/RSvEtDH72LY
 
 Edit the script in Visual Studio
 
