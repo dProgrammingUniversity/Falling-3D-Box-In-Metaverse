@@ -12,3 +12,7 @@ Watch this video (When it hit 100Likes and Comment will do indepth video) at
 Edit the script in Visual Studio
 
 Link it up to Unity
+
+# Support?
+
+Reach out via https://dprogramminguniversity.com/Telegram
